@@ -1,0 +1,88 @@
+
+.container1{
+    width: 80%;
+    max-width: 940px;
+    margin: 0px auto 0px auto;
+}
+
+.imgBanner{
+    background-image: url(imagens/banner_gil.jpg);
+    background-size: cover;
+    height: 500px;
+}
+.textoBranco{
+    color:white;
+    text-transform: uppercase;
+    font-size:40px;
+    margin: 0px;
+}
+.backgroundbotão{
+    background-color: red !important;
+   
+}
+#link:hover{
+    background-color: rgb(88, 85, 85) !important;
+    border:5px;
+    font-size: 30px;
+}
+.textoCartão{
+    font-size: 30px;
+}
+.corDeFundoRewards{
+    background-color: rgb(245, 245, 245);
+}
+.trescolunascinza{
+    background-color:rgb(245, 245, 245);
+
+}
+.trescolunas{
+    background-color: rgba(255, 0, 0, 0.9);
+} 
+.backgroundbotão2{
+    background-color: red !important;
+}
+#link2:hover{
+    background-color: rgb(88, 85, 85) !important;
+}
+.backgroundbotão3{
+    background-color: rgb(245, 245, 245)!important;
+    
+}
+#link3:hover{
+    background-color: red !important;
+    color: white !important;
+
+}
+.bannerdeBaixo{
+    background-image: url('imagens/img_bannerdebaixo.png');
+    background-size: cover;
+    height: 450px;
+}
+.backgroundBranco{
+    background-color: rgba(245, 245, 245, 0.8) !important;
+    height: 200px;
+}
+.bg-footer{
+    background-color: rgb(17, 17, 17)!important;
+}
+.corlink{
+    text-decoration: none;
+    color: white !important;
+}
+.corlink:hover{
+    color:white;
+    font-weight: bold;
+}
+
+.btn-primary{
+    background-color: rgb(226, 69, 69) !important;
+} 
+.btn-primary:hover{
+    background-color: rgb(199, 197, 197) !important;
+} 
+.cor{
+    color: white !important;
+}
+.cor:hover{
+    color: rgb(211, 76, 76) !important;
+}
